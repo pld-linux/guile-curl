@@ -1,0 +1,14 @@
+--- guile-curl-0.9/doc/guile-curl.texi.orig	2021-01-20 00:41:40.000000000 +0100
++++ guile-curl-0.9/doc/guile-curl.texi	2024-05-24 21:32:38.840285881 +0200
+@@ -51,9 +51,9 @@ Includes portions of the libcurl documen
+ @copyright{} 1998 - 2018 Daniel Stenberg, et al.
+ @end copying
+ 
+-@dircategory The Algorithmic Language Scheme
++@dircategory Programming Languages:
+ @direntry
+-* Guile Curl: (guile-curl).     A URL-fetching library for Guile.
++* Guile Curl: (guile-curl).		A URL-fetching library for Guile
+ @end direntry
+ 
+ @titlepage
